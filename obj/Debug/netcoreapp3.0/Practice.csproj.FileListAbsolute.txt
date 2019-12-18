@@ -1,0 +1,11 @@
+C:\Users\Dylan\Workspace\practice\bin\Debug\netcoreapp3.0\Practice.exe
+C:\Users\Dylan\Workspace\practice\bin\Debug\netcoreapp3.0\Practice.deps.json
+C:\Users\Dylan\Workspace\practice\bin\Debug\netcoreapp3.0\Practice.runtimeconfig.json
+C:\Users\Dylan\Workspace\practice\bin\Debug\netcoreapp3.0\Practice.runtimeconfig.dev.json
+C:\Users\Dylan\Workspace\practice\bin\Debug\netcoreapp3.0\Practice.dll
+C:\Users\Dylan\Workspace\practice\bin\Debug\netcoreapp3.0\Practice.pdb
+C:\Users\Dylan\Workspace\practice\obj\Debug\netcoreapp3.0\Practice.csprojAssemblyReference.cache
+C:\Users\Dylan\Workspace\practice\obj\Debug\netcoreapp3.0\Practice.AssemblyInfoInputs.cache
+C:\Users\Dylan\Workspace\practice\obj\Debug\netcoreapp3.0\Practice.AssemblyInfo.cs
+C:\Users\Dylan\Workspace\practice\obj\Debug\netcoreapp3.0\Practice.dll
+C:\Users\Dylan\Workspace\practice\obj\Debug\netcoreapp3.0\Practice.pdb
